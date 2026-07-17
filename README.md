@@ -13,6 +13,5 @@ I'm 𝐊𝐚𝐫𝐥 currently a 3rd Year IT Student<br><br>𝗔𝗜 𝗰𝘂�
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaelJP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KaelJP&icon=3&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
